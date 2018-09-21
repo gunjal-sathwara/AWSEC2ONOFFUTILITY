@@ -1,0 +1,10 @@
+C:\Training Materials\SampleProjects\EC2ONOFFUTILITY\EC2ONOFFUTILITY\bin\Debug\netcoreapp2.1\EC2ONOFFUTILITY.deps.json
+C:\Training Materials\SampleProjects\EC2ONOFFUTILITY\EC2ONOFFUTILITY\bin\Debug\netcoreapp2.1\EC2ONOFFUTILITY.runtimeconfig.json
+C:\Training Materials\SampleProjects\EC2ONOFFUTILITY\EC2ONOFFUTILITY\bin\Debug\netcoreapp2.1\EC2ONOFFUTILITY.runtimeconfig.dev.json
+C:\Training Materials\SampleProjects\EC2ONOFFUTILITY\EC2ONOFFUTILITY\bin\Debug\netcoreapp2.1\EC2ONOFFUTILITY.dll
+C:\Training Materials\SampleProjects\EC2ONOFFUTILITY\EC2ONOFFUTILITY\obj\Debug\netcoreapp2.1\EC2ONOFFUTILITY.csproj.CoreCompileInputs.cache
+C:\Training Materials\SampleProjects\EC2ONOFFUTILITY\EC2ONOFFUTILITY\obj\Debug\netcoreapp2.1\EC2ONOFFUTILITY.AssemblyInfoInputs.cache
+C:\Training Materials\SampleProjects\EC2ONOFFUTILITY\EC2ONOFFUTILITY\obj\Debug\netcoreapp2.1\EC2ONOFFUTILITY.AssemblyInfo.cs
+C:\Training Materials\SampleProjects\EC2ONOFFUTILITY\EC2ONOFFUTILITY\bin\Debug\netcoreapp2.1\EC2ONOFFUTILITY.pdb
+C:\Training Materials\SampleProjects\EC2ONOFFUTILITY\EC2ONOFFUTILITY\obj\Debug\netcoreapp2.1\EC2ONOFFUTILITY.dll
+C:\Training Materials\SampleProjects\EC2ONOFFUTILITY\EC2ONOFFUTILITY\obj\Debug\netcoreapp2.1\EC2ONOFFUTILITY.pdb
